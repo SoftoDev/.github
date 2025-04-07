@@ -1,9 +1,6 @@
 # Softo 🚀  
 **Building Custom Software to Help You Grow and Thrive**
 
-![Softo Screenshot](https://pbs.twimg.com/media/GnLQZzJWoAAR8JR?format=jpg&name=small)  
-*A glimpse of Softo's magic—custom software in action, Ghibli style!*
-
 ---
 
 ## What is Softo?  
