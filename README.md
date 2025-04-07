@@ -1,6 +1,8 @@
 # Softo 🚀  
 **Building Custom Software to Help You Grow and Thrive**
 
+<a href="https://sof.to" target="_blank"><img src="images/site-softo-en.png" alt="Softo Screenshot" width="600" height="422"/></a>
+
 ---
 
 ## What is Softo?  
