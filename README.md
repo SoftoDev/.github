@@ -1,7 +1,7 @@
 # Softo 🚀
 **Applied AI for Intelligent Solutions, Delivered**
 
-<a href="https://sof.to" target="_blank"><img src="../images/site-softo-en.png" alt="Softo Screenshot" width="1214" height="1258"/></a>
+<a href="https://sof.to" target="_blank"><img src="images/site-softo-en.png" alt="Softo Screenshot" width="1214" height="1258"/></a>
 
 ---
 
