@@ -1,69 +1,69 @@
-# Softo 🚀  
-**Building Custom Software to Help You Grow and Thrive**
+# Softo 🚀
+**Applied AI for Intelligent Solutions, Delivered**
 
-<a href="https://sof.to" target="_blank"><img src="../images/site-softo-en.png" alt="Softo Screenshot" width="600" height="422"/></a>
-
----
-
-## What is Softo?  
-Welcome to **Softo**, where we craft **custom software solutions** to empower businesses and individuals to reach their full potential. At Softo, we believe technology should be dynamic, creative, and customer-centric. Whether it’s cloud-based web apps, mobile solutions, or innovative tools, we’re here to help you **grow and thrive** with software that delivers real value.  
-
-Our mission? To turn your ideas into reality with agile development teams, a passion for design, and a focus on your success. From startups to leading companies, we’re trusted partners in building the future.
+<a href="https://sof.to" target="_blank"><img src="../images/site-softo-en.png" alt="Softo Screenshot" width="1214" height="1258"/></a>
 
 ---
 
-## Why Softo?  
-- **Tailored Solutions**: We don’t do one-size-fits-all. Every project is custom-built to fit your unique needs.  
-- **Agile & Fast**: Our DevTeam-as-a-Service model means you get a skilled squad, ready to roll, without the overhead.  
-- **Design-Driven**: We blend creativity and functionality for software that’s as beautiful as it is powerful.  
-- **ROI Focused**: Your success is our metric—expect measurable results and sustainable growth.  
+## Who We Are
 
-Leading companies trust us because we deliver. Check out [our website](https://sof.to) to see how we make our clients thrive!
+Softo is a fully remote, Brazil-based company focused on **applied AI, custom software, and intelligent automation**. We design, build, and operate AI-powered software for real business operations, with accountability for tangible delivery and measurable impact.
+
+Founded in 2013, we have served organizations ranging from startups to large enterprises like WHO/OMS, FGV, Stone, iFood, Iugu, and CEPEL. We work where there is real process complexity and a need to ship faster, with quality, in the Autonomous Era.
 
 ---
 
-## Quickstart: Get Involved with Softo  
-Want to explore our work or collaborate with us? Here’s how to dive in:  
+## How We Engage
 
-1.  **Explore Our Projects**: Head to our [GitHub organization](https://github.com/SoftoDev) to check out our open-source efforts.
-2.  **Join the Conversation**: Have questions or ideas? Jump into our community (see below) or reach out directly!
+### Outcome Pods
+Our flagship delivery product. Cross-functional, AI-native squads that take responsibility for business outcomes across full software development, systems integration, and intelligent automation. All work is priced and consumed in **outcome tokens**, with different work types consuming tokens at different rates.
 
-No code to run here yet? No worries---this is just the beginning. Watch this space for more!
+Inside Outcome Pods, **Agentic Now** is our named service for autonomous agents, agentic workflows, and intelligent process automation, applied to real workflows and integrations.
+
+---
+
+## What We Do
+
+Web and mobile applications, APIs and systems integration, cloud, automation and RPA, data-driven systems, UX design, blockchain and smart contracts, and applied AI including LLM-based systems, RAG architectures, AI agents, multi-agent systems, and AI-powered workflow automation.
+
+Our delivery stance is simple: we sell delivery capacity oriented to outcomes, accelerated by AI across the software lifecycle. Not headcount, not hours, not body shop allocations.
+
+---
+
+## Quickstart: Get Involved
+
+1. **Explore Our Work:** browse our [GitHub organization](https://github.com/SoftoDev) for open-source efforts.
+2. **Try Pulse:** take our AI dev maturity assessment at [pulse.sof.to](https://pulse.sof.to).
+3. **Talk to Us:** reach out through any channel below.
 
 * * * * *
 
 Have Questions? Want to Chat or Connect?
 -----------------------------
 
-We're all about collaboration and community. Here's where you can find us:
-
--   **Website**: [sof.to](https://sof.to) -- Learn more about our services and team.
--   **Email**: Drop us a line at <hello@sof.to> for inquiries or support.
--   **X**: Follow us [@SoftoDev](https://x.com/SoftoDev) for updates and tech talk.
--   **LinkedIn**: Visit [Global](https://www.linkedin.com/company/softodev/) or [Brasil](https://www.linkedin.com/showcase/softo-global/) pages.
--   **Instagram**: See our latest short format content at [@SoftoDev](https://www.instagram.com/softodev/).
--   **Facebook**: Connect with us at [SoftoDev](https://www.facebook.com/SoftoDev/).
--   **TikTok**: Catch our quick videos at [@SoftoDev](https://www.tiktok.com/@softodev).
--   **YouTube**: Watch our videos at [SoftoDev](https://www.youtube.com/@softodev).
--   **Backlog Talks Podcast**: Watch or listen on [Spotify](https://open.spotify.com/show/76sO52XgMhV0iSWAZ64kJs?si=e9ccef09aa6e4467) or [Youtube](http://www.youtube.com/@BacklogTalks).
+-   **Website**: [sof.to](https://sof.to)
+-   **Email**: <hello@sof.to>
+-   **X**: [@SoftoDev](https://x.com/SoftoDev)
+-   **LinkedIn**: [Global](https://www.linkedin.com/company/softodev/) or [Brasil](https://www.linkedin.com/showcase/softo-global/)
+-   **Instagram**: [@SoftoDev](https://www.instagram.com/softodev/)
+-   **Facebook**: [SoftoDev](https://www.facebook.com/SoftoDev/)
+-   **TikTok**: [@SoftoDev](https://www.tiktok.com/@softodev)
+-   **YouTube**: [SoftoDev](https://www.youtube.com/@softodev)
+-   **Backlog Talks Podcast**: [Spotify](https://open.spotify.com/show/76sO52XgMhV0iSWAZ64kJs?si=e9ccef09aa6e4467) or [YouTube](http://www.youtube.com/@BacklogTalks)
 
 * * * * *
 
 How to Get Involved
 -------------------
 
-We're always looking for passionate people to join our journey:
-
--   **Work with Us**: Looking for a career in tech? Visit [sof.to/for-talents](https://sof.to/for-talents) to see open roles.
--   **Partner Up**: Have a project in mind? Contact us at <partners@sof.to> to explore how we can team up.
-
-Whether you’re a developer eager to code, a business leader with a vision, or a collaborator with bold ideas, Softo’s the place to turn concepts into reality. Let’s create impactful software together!
+-   **Work with Us**: open roles at [sof.to/for-talents](https://sof.to/for-talents).
+-   **Partner Up**: contact us at <partners@sof.to>.
 
 * * * * *
 
 A Little About Us
 -----------------
 
-Softo is brought to you by a team of innovators who live and breathe tech. Founded with a vision to make software development dynamic and accessible, we're headquartered at the intersection of creativity and code. Learn more about our story and values at [sof.to/about](https://sof.to/about).
+Softo was founded in 2013 by Fabio Seixas (CEO) and Rafael Ruiz (CTO). More than a decade in, we are focused on applying AI to real business and operational problems, with responsibility for tangible delivery. Learn more at [sof.to/about](https://sof.to/about).
 
 * * * * *
